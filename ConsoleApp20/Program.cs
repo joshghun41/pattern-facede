@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp20
 {
-    internal class Program
+    internal class StepIT
     {
         class Programlasdirmaders1
         {
