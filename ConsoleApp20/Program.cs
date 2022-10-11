@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp20
 {
-    internal class StepIT
+    public  class StepIT
     {
         class Programlasdirmaders1
         {
@@ -100,6 +100,10 @@ namespace ConsoleApp20
 
             facade.OfficeDersleri();
             facade.ProgramlasdirmaDersleri();
+
+
+
+
             Console.ReadKey();
         }
     }
